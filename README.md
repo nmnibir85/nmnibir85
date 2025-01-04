@@ -9,8 +9,7 @@ I enjoy working with including python, JavaScript as well as PHP
 
 Skills: python / CSS /PHP
 
-- 🔭 I’m currently working on Youtube 
-- 🌱 I’m currently learning Python,JavaScript 
+- 🌱 I’m currently learning html,css,JavaScript 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development  
 - 📫 How to reach me: nmnibir85@gmail.com 
